@@ -41,7 +41,7 @@ On macOS and Linux:
 source venv/bin/activate
 Install the project dependencies:
 
-pip install requirements.txt
+pip install requirement.txt  (Make sure you are in main directory where .txt file is present)
 Perform database migrations:
 
 run
