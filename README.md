@@ -23,7 +23,7 @@ Git
 Installation
 Clone the repository:
 
-git clone https://github.com/anurag611/memeshareapp_project.git
+git clone [https://github.com/anurag611/memeshareapp_project.git](https://github.com/anurag611/memeshareapp.git)
 
 Navigate to the project directory:
 cd memeshareapp
